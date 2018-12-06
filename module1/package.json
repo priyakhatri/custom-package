@@ -1,0 +1,14 @@
+{
+  "name": "package-1",
+  "version": "1.0.0",
+  "description": "A cool package for demonstration purposes",
+  "main": "controllers/controller1.js",
+  "dependencies": {
+    "express": "4.13.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
